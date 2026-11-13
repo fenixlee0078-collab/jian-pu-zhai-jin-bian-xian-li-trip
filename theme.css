@@ -1,0 +1,33 @@
+/* 主题：ancient（由 create_trip.py 自动生成） */
+:root{
+  --ink:#2A1E18;
+  --ink2:#57453A;
+  --ink3:#94806F;
+  --paper:#F7F1E8;
+  --card:#FFFFFF;
+  --line:#E6D9C8;
+  --forest:#4A1F16;
+  --forest2:#7A3B24;
+  --moss:#A67C52;
+  --clay:#B4493A;
+  --sun:#D9A24A;
+  --fog:#F1EADF;
+  --shadow:0 2px 4px rgba(20,30,24,.04), 0 12px 28px rgba(20,30,24,.08);
+
+  --hero-grad:linear-gradient(160deg,#2E120A 0%,#4A1F16 45%,#7A3B24 100%);
+  --hero-text:#F7F0E6;
+  --hero-sub:#D8C3A8;
+  --glow-rgb:217,162,74;
+  --fog-rgb:26,12,6;
+
+  --next-grad:linear-gradient(135deg,#3A1810 0%,#5C2A1C 52%,#7A3B24 100%);
+  --next-sub:#D8C3A8;
+  --next-label:#B39B7E;
+  --next-num:#E8D8BE;
+
+  --hill-sun:#D9A24A;
+  --hill1:#7A3B24;
+  --hill2:#5C2A1C;
+  --hill3:#3A1810;
+  --hill4:#2A0F08;
+}
